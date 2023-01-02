@@ -26,5 +26,5 @@ public interface MemberDao {
 	public int memberAllCount();
 	
 	public void admMemberKick(String userId);
-wdwd
+
 }
